@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.zbf.demo.demomybatis.mapper.DemoTableMapper">
+    <!--<select id="getAll" parameterType="java.lang.String">
+    select * from demo_table_01
+    </select>-->
+</mapper>
