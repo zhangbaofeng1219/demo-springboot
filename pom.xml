@@ -12,6 +12,7 @@
 
     <modules>
         <module>demo-threadpool</module>
+        <module>demo-layui-mini</module>
     </modules>
 
 
