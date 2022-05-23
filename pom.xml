@@ -13,6 +13,9 @@
     <modules>
         <module>demo-threadpool</module>
         <module>demo-layui-mini</module>
+        <module>demo-commons</module>
+        <module>demo-mybatis</module>
+        <module>demo-other</module>
     </modules>
 
 
