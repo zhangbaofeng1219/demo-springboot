@@ -1,5 +1,6 @@
 package com.zbf.other.api;
 
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
 
 /**
@@ -7,10 +8,12 @@ import org.springframework.web.bind.annotation.*;
  * @date 2022-05-23 18:17
  */
 @RestController
+@Slf4j
 public class DemoApi {
 
     @GetMapping("/other/demo/get")
     public String get(String name) {
+        log.info("test" + name);
         System.out.println(name);
         return "SUC";
     }
