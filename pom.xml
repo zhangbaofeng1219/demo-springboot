@@ -16,6 +16,7 @@
         <module>demo-commons</module>
         <module>demo-mybatis</module>
         <module>demo-other</module>
+        <module>demo-mybatis-plus</module>
     </modules>
 
 
